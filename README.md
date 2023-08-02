@@ -9,6 +9,7 @@ I'm a Data Scientist, currently working in the NHS (Northern Care Alliance NHS F
 
 
 How to reach me:
+<br>
 <a href="https://www.linkedin.com/in/prajwal-khairnar/">
   <img
     alt="Linkedin"
@@ -20,7 +21,7 @@ How to reach me:
 <a href="mailto:prajwal.pkhairnar@gmail.com">
   <img
     alt="Email"
-    src="https://img.shields.io/badge/-prajwal.pkhairnar@gmail.com-0077B5?logo=Gmail&logoColor=white&link=mailto:-prajwal.pkhairnar@gmail.com"
+    src="https://img.shields.io/badge/-prajwal.pkhairnar@gmail.com-c14438?style=logo=Gmail&logoColor=white&link=mailto:-prajwal.pkhairnar@gmail.com&style=for-the-badge"
   />
   
 </a>
