@@ -3,8 +3,26 @@
 
 ### This is Prajwal Khairnar! 
 
-I'm a Data Scientist, currently working in the NHS (Northern Care Alliance NHS Foundation Trust)
+I'm a Data Scientist, currently working in the NHS (Northern Care Alliance NHS Foundation Trust), United Kingdom.
 
+
+I am currently working on various projects in the following areas of research: <br>
+![NLP](https://img.shields.io/badge/-NLP-244e89.svg?style=for-the-badge&logo=NLP&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-DC322F.svg?style=for-the-badge&logo=ML&logoColor=white)
+![Statistical Analysis](https://img.shields.io/badge/-Statistical%20Analysis-c68934.svg?style=for-the-badge&logo=StatisticalAnalysis&logoColor=white)
+
+
+I use: <br>
+<b>Languages</b><br>
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-245f89?style=for-the-badge&logo=R&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-0f2738?style=for-the-badge&logo=SQL&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+<b>Tools</b>
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+<img src= "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
 
 
 
