@@ -9,7 +9,7 @@ I'm a Data Scientist, currently working in the NHS (Northern Care Alliance NHS F
 
 
 How to reach me:
-<br>
+<br><br>
 <a href="https://www.linkedin.com/in/prajwal-khairnar/">
   <img
     alt="Linkedin"
