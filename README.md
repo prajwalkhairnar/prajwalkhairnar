@@ -20,7 +20,7 @@ How to reach me:
 <a href="mailto:prajwal.pkhairnar@gmail.com">
   <img
     alt="Email"
-    src="https://img.shields.io/badge/-prajwal.pkhairnar@gmail.com-c14438?logo=Gmail&logoColor=white&link=mailto:-prajwal.pkhairnar@gmail.com"
+    src="https://img.shields.io/badge/-prajwal.pkhairnar@gmail.com-0077B5?logo=Gmail&logoColor=white&link=mailto:-prajwal.pkhairnar@gmail.com"
   />
   
 </a>
