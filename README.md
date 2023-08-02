@@ -11,7 +11,7 @@ I am currently working on various projects in the following areas of research: <
 ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-DC322F.svg?style=for-the-badge&logo=ML&logoColor=white)
 ![Statistical Analysis](https://img.shields.io/badge/-Statistical%20Analysis-c68934.svg?style=for-the-badge&logo=StatisticalAnalysis&logoColor=white)
 
-
+<br><br>
 I use: <br><br>
 <b>Languages</b><br>
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
@@ -25,7 +25,7 @@ I use: <br><br>
 <img src= "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
 
 
-
+<br><br>
 How to reach me:
 <br><br>
 <a href="https://www.linkedin.com/in/prajwal-khairnar/">
