@@ -34,6 +34,16 @@ I use: <br><br>
 <br><br>
 How to reach me:
 <br><br>
+
+![NLP](https://img.shields.io/badge/-NLP-244e89.svg?style=for-the-badge&logo=NLP&logoColor=white)
+
+<a href="https://sites.google.com/view/prajwalkhairnar/home">
+  <img
+    alt="Website"
+    src="https://img.shields.io/badge/-Website-244e89.svg?style=for-the-badge&logo=Website&logoColor=white"
+  />
+</a>
+
 <a href="https://www.linkedin.com/in/prajwal-khairnar/">
   <img
     alt="Linkedin"
@@ -50,6 +60,11 @@ How to reach me:
   
 </a>
 
+<a href ="https://prajwalkhairnar.medium.com/">
+   <img 
+     alt = "Medium"
+     src = "https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/> 
+  </a>
 
 
 
