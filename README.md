@@ -35,8 +35,6 @@ I use: <br><br>
 How to reach me:
 <br><br>
 
-![NLP](https://img.shields.io/badge/-NLP-244e89.svg?style=for-the-badge&logo=NLP&logoColor=white)
-
 <a href="https://sites.google.com/view/prajwalkhairnar/home">
   <img
     alt="Website"
