@@ -3,7 +3,7 @@
 
 ### This is Prajwal Khairnar! 
 
-I'm a Senior Data Scientist/AI Engineer, currently working in the NHS (Northern Care Alliance NHS Foundation Trust) and Rumii, United Kingdom.
+I'm a Senior Research AI Engineer/Data Scientist, currently working @ Arva AI.
 
 
 I am currently working on various projects in the following areas of research: <br><br>
