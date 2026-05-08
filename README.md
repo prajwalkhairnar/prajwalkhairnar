@@ -7,6 +7,12 @@ I'm a Senior Research AI Engineer/Data Scientist, currently working @ Arva AI.
 
 
 I am currently working on various projects in the following areas of research: <br><br>
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![NLP](https://img.shields.io/badge/-NLP-244e89.svg?style=for-the-badge&logo=NLP&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-DC322F.svg?style=for-the-badge&logo=ML&logoColor=white)
 ![Statistical Analysis](https://img.shields.io/badge/-Statistical%20Analysis-c68934.svg?style=for-the-badge&logo=StatisticalAnalysis&logoColor=white)
@@ -14,6 +20,7 @@ I am currently working on various projects in the following areas of research: <
 <br><br>
 I use: <br><br>
 <b>Languages</b><br>
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-245f89?style=for-the-badge&logo=R&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-0f2738?style=for-the-badge&logo=SQL&logoColor=white)
